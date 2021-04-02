@@ -1,0 +1,24 @@
+>>> M503
+SENDING:M503
+echo:Steps per unit:
+echo:  M92 X80.00 Y100.00 Z400.00 E440.00
+echo:Maximum feedrates (mm/s):
+echo:  M203 X100.00 Y100.00 Z20.00 E80.00
+echo:Maximum Acceleration (mm/s2):
+echo:  M201 X350 Y350 Z50 E30000
+echo:Accelerations: P=printing, R=retract and T=travel
+echo:  M204 P350.00 R3000.00 T350.00
+echo:Advanced variables: S=Min feedrate (mm/s), T=Min travel feedrate (mm/s), B=minimum segment time (ms), X=maximum XY jerk (mm/s),  Z=maximum Z jerk (mm/s),  E=maximum E jerk (mm/s)
+echo:  M205 S0.00 T0.00 B20000 X4.00 Y4.00 Z0.40 E20.00
+echo:Home offset (mm)
+echo:  M206 X0.00 Y0.00 Z0.00
+echo:Z2 Endstop adjustment (mm):
+echo:  M666 Z0.00
+echo:PID settings:
+echo:  M301 P20.00 I0.50 D106.55
+echo:  M304 P97.10 I1.41 D1675.16
+echo:Filament settings: Disabled
+echo:  M200 D1.75
+echo:  M200 D0
+echo:Z-Probe Offset (mm):
+echo:  M851 Z-14.00

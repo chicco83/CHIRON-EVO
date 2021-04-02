@@ -1,0 +1,23 @@
+M502  ; RIPRISTINA EPROM
+M500 ; SALVA SETTAGGI PREDEFINITI
+
+M303 E-1 S50 U; PID BED TUNE A 50°
+M500 ; SALVO PID TUNE IN EPROM
+M303 E0 S210 U	 ; PID tune hotend at 210c then apply result
+M500	         ; save settings
+
+M92 e440 ; E STEP CORRETTI
+M500 ; SALVO ESTEP
+
+
+pid bed 50°
+PID Autotune finished! Put the last Kp, Ki and Kd constants from below into Configuration.h
+#define  DEFAULT_bedKp 56.86
+#define  DEFAULT_bedKi 9.67
+#define  DEFAULT_bedKd 83.58
+
+pid hotend 210°
+PID Autotune finished! Put the last Kp, Ki and Kd constants from below into Configuration.h
+#define  DEFAULT_Kp 23.04
+#define  DEFAULT_Ki 2.46
+#define  DEFAULT_Kd 53.92

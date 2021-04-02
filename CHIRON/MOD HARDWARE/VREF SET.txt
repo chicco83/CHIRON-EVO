@@ -1,0 +1,3 @@
+Update and Thread conclusion (Dec 24th 2020 - The year of hell):
+I ended up installing BigTreeTech TMC2209 v.1.2's in Step/Dir Mode in my stock Trigorilla and Flashing to Nicks Marlin 2.0.7 Firmware with TMC2209's Reversed (no need to flip wires). Set Mcode; M204 T2200.00, M201 X2200.00 Y2200.00 Z100.00 and send a m500 to save. Voltages to: X1.1, Y1.6, Z0 1.0, Z1 1.0, E0 1.0, E1 .80 (all settings above fixed the benchy issue)
+Big thank you to Shane Dekart for going above and beyond to help a fella newbie

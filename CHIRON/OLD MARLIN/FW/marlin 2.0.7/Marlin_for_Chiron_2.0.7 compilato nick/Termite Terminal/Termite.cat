@@ -1,0 +1,855 @@
+en: $Languages Deutsch (de); English (en); Espaсol (es); Franзais (fr); Italiano (it); Nederlands (nl); Polski (pl); Русский (ru)
+de: *
+es: *
+fr: *
+it: *
+nl: *
+pl: *
+ru: *
+
+en: none
+de: keine
+es: ninguna/o
+fr: aucune
+it: nessuno
+nl: geen
+pl: brak
+ru: нет
+
+en: even
+de: gerade
+es: par
+fr: paire
+it: pari
+nl: even
+pl: parzyste
+ru: чёт
+
+en: odd
+de: ungerade
+es: impar
+fr: impaire
+it: dispari
+nl: oneven
+pl: nieparzyste
+ru: нечет
+
+en: mark
+de: mark
+es: marca
+fr: marque
+it: mark
+nl: mark
+pl: znak
+ru: маркер
+
+en: space
+de: space
+es: espacio
+fr: espace
+it: space
+nl: space
+pl: odstкp
+ru: пробел
+
+en: no handshake
+de: keine
+es: sin control de flujo
+fr: sans contrфle de flux
+it: no controllo flusso
+nl: geen flow-control
+pl: bez negocjacji
+ru: без управл. потоком
+
+en: RTS/CTS
+de: RTS/CTS
+es: RTS/CTS
+fr: RTS/CTS
+it: RTS/CTS
+nl: RTS/CTS
+pl: RTS/CTS
+ru: RTS/CTS
+
+en: DTR/DSR
+de: DTR/DSR
+es: DTR/DSR
+fr: DTR/DSR
+it: DTR/DSR
+nl: DTR/DSR
+pl: DTR/DSR
+ru: DTR/DSR
+
+en: XON/XOFF
+de: XON/XOFF
+es: XON/XOFF
+fr: Xon/Xoff
+it: XON/XOFF
+nl: XON/XOFF
+pl: XON/XOFF
+ru: XON/XOFF
+
+en: default
+de: standard
+es: por defecto
+fr: standard
+it: default
+nl: standaard
+pl: domyњlna
+ru: по умолчанию
+
+en: monospaced
+de: Festbreitenschrift
+es: monoespacio
+fr: Espacement fixe
+it: non proporz.
+nl: Niet proportioneel
+pl: staіej szerokoњci
+ru: моноширинный
+
+en: unifont
+de: Unifont
+es: unifont
+fr: unifont
+it: unifont
+nl: unifont
+pl: unifont
+ru: unifont
+
+en: Disconnected - click to connect
+de: Getrennt - Klick zum Verbinden
+es: Desconectado - Click para conectar
+fr: Dйconnectй - Cliquer pour connecter
+it: Disconnesso - cliccare per connettere
+nl: Verbroken - klik voor verbinden
+pl: Rozі№czono - kliknij їeby poі№czyж
+ru: Нет подключения. Установить связь
+
+en: Forwarding port could not be opened
+de: Die Schnittstellen zur Weiterleitung konnte nicht geцffnet werden
+es: No se pudo habrir el puerto de redireccion
+fr: Le port redirigй ne peut pas кtre ouvert
+it: La porta su cui inoltrare non puт essere aperta
+nl: Poort voor doorzenden kon niet worden geopend
+pl: Nie moїna otworzyж przekazywanego portu
+ru: Не удалось открыть порт для перенаправления
+
+en: Failed to initialize the port.\nPlease verify the COM port settings.
+de: Die Schnittstelle konnte nicht geцffnet werden.\nBitte die Verbindungseinstellungen prьfen.
+es: Error al inicializar el puerto. \nPor favor revise la configuracion del puerto COM.
+fr: Le port ne peut pas кtre initialisй. \nVeuillez vйrifier les rйglages.
+it: Inizializzazione della porta non riuscita.\nVerificare le impostazioni della porta COM.
+nl: Instellen van de poort is mislukt.\nControleer de instellingen.
+pl: Nie udaіo siк zainicjalizowaж portu.\nProszк sprawdziж ustawienia portu COM.
+ru: Не удалось открыть порт.\nПожалуйста, проверьте параметры настройки COM-порта.
+
+en: Termite is initialized and ready.\nType a string in the edit line (below) and press <Enter>\n(or wait for the remote device to send data).
+de: Termite ist initialisiert und bereit.\nText in die Eingabezeile (unten) schreiben und mit <Enter> absenden\n(oder auf Text eines angeschlossenen Gerдts warten).
+es: Termite esta inicializado y listo. \nEscriba en la linea de edicion (abajo) y presione <Enter>\n o espere a que un dispositivo remoto envнe informaciуn.
+fr: Termite est prкt. \nTapez une chaоne dans la zone d'йdition (ci-dessous) et appuyez sur <Entrйe>\n(ou attendez la rйception de donnйes).
+it: Termite и inizializzato e pronto.\nDigita una stringa nella riga di trasmissione in basso e premi <Invio>\n(oppure attendi la ricezione di dati dal dispositivo remoto).
+nl: Termite is geпnitialiseerd.\nTik een regel in de invoerregel (onderaan) en druk op <Enter>\n(of wacht op ontvangst van het aangesloten apparaat).
+pl: Termite jest zainicjalizowany i gotowy.\nNapisz іaсcuch w wierszu edycji (poniїej) i naciњnij <Enter>\n(lub oczekaj na wysіanie danych przez zdalne urz№dzenie).
+ru: Termite запущен и готов к работе.\nНабирайте текст в поле ввода внизу и нажимайте Enter,\nили ожидайте поступления данных от удалённого устройства.
+
+en: Termite document
+de: Termite Document
+es: Documentacion Termite
+fr: Document Termite
+it: Documento Termite
+nl: Termite-document
+pl: Dokument Termita
+ru: Документ Termite
+
+en: Only detected COM ports are in this list, but you can type another port name
+de: Es werden nur erkannte Schnittstellen angezeigt aber es kцnnen auch andere Schnittstellennamen angegeben werden.
+es: Solo aparecen en la lista los puertos COM detectados, puedes escribir otro puerto manualmente.
+fr: Cette liste contient uniquement les ports dйtectйs, mais vous pouvez saisir un autre nom de port
+it: Solo le porte COM rilevate comapiono in questo elenco ma и possibile digitare un altro nome di porta
+nl: De lijst bevat alleen COM poorten die zijn gedetecteerd, maar u kunt ook een andere poort intikken
+pl: Na tej liњcie s№ tylko wykryte porty COM, ale moїesz wpisaж inn№ nazwк portu.
+ru: В списке указаны только найденные COM-порты; однако, можно указать любой другой при необходимости.
+
+en: Select a standard baud rate, or type in a custom baud rate
+de: Standard Baudrate auswдhlen oder benutzerdefinierten Wert eingeben
+es: Selecciona una velocidad estandar, o escribe una propia.
+fr: Sйlectionner une vitesse standard ou saisissez valeur quelconque.
+it: Selezionare un baud rate standard oppure digitarne uno personalizzato
+nl: Kies een standaard baud-rate, of tik een speciale baud-rate in.
+pl: Wybierz przepіywnoњж standardow№ lub wpisz dowoln№ wіasn№
+ru: Выберите стандартную скорость потока или введите требуемую.
+
+en: Number of data bits
+de: Anzahl der Datenbits
+es: Numero de bits del dato
+fr: Nombre de bits de donnйes
+it: Numero di bit del dato
+nl: Aantal data-bits
+pl: Liczba bitуw danych
+ru: Биты данных
+
+en: Number of stop bits; for 5 data bits, 2 stop bits configures 1.5 stop bits
+de: Anzahl der Stoppbits
+es: Numero de bits de parada
+fr: Nombre de bits de stop. Une valuer de 2 configure 1,5 bits de stop.
+it: Numero di bit di stop; per 5 bit di dato, selezionando 2 bit di stop si configurano 1,5 bit di stop
+nl: Aantal stop-bits; bij 5 data-bits is de keuze voor 2 stop-bits is eigenlijk 1.5 stop-bit
+pl: Liczba bitуw stopu; dla 5 bitуw danych, wybranie 2 bitуw stopu skonfiguruje 1,5 bitуw stopu
+ru: Количество стоповых битов. Если выбрано 5 битов данных, 2 стоповых бита означают 1.5.
+
+en: Parity; mark=fixed high, space=fixed low
+de: Paritдt; mark=immer hoch, space=immer niedrig
+es: Paridad; marca=alto, espacio=bajo
+fr: Paritй. marque=niveau haut, espace=niveau bas
+it: Paritа; mark=fisso alto, space=fisso basso
+nl: Pariteit; mark=altijd hoog, space=altijd laag
+pl: Parzystoњж; znak=ustawiona wysoka, odstкp=ustawiona niska
+ru: Чётность; маркер=фиксированная сверху, пробел=финсированная снизу
+
+en: Hardware or software flow control
+de: Hardware oder Software Flusssteuerung
+es: Control de flujo por Hardware o Software
+fr: Contrфle de flux logiciel ou matйriel
+it: Controllo di flusso hardware o software
+nl: Hardware/software flow control
+pl: Sprzкtowe lub programowe sterowanie przepіywem
+ru: Аппаратное или программное управление потоком
+
+en: Secondary port to forward received data to (both ways)
+de: Zweite Schnittstelle zu der die empfangenen Daten weitergeleitet werden (bidirektional)
+es: Puerto secundario para redireccionar la informacion recibida(ambos sentidos)
+fr: Le port secondaire pour rediriger les donnйes reзues (bi-directionnel)
+it: Porta secondaria dove inoltrare i dati ricevuti (bidirezionale)
+nl: Tweede poort om ontvangen data aan door te zenden (beide richtingen)
+pl: Drugi port do przekazywania odbieranych danych (w obie strony)
+ru: Второй порт для перенаправления данных (дуплекс)
+
+en: Transmit the text as is
+de: Sende den Text unverдndert
+es: Transmitir el texto tal cual
+fr: Transmet le texte tel quel
+it: Trasmette il testo cosм com'и
+nl: De tekst versturen zonder aanvullingen
+pl: Wysyіaj tekst tak jak jest
+ru: Передавать текст как есть
+
+en: Transmit the text and append a carriage return (ASCII 13)
+de: Sende den Text und einen Wagenrьcklauf CR (ASCII 13)
+es: Transmite el texto y agrega el caracter de retorno (ASCII 13)
+fr: Ajoute un retour chariot (\\n = $13 en ASCII)
+it: Trasmette il testo e aggiunge il carattere di ritorno a capo (ASCII 13)
+nl: De tekst aanvullen met een CR-teken (ASCII 13), dan versturen
+pl: Wysyіaj tekst i doі№czaj znak powrotu karetki (ASCII 13)
+ru: Передавать текст + возврат каретки (ASCII 13)
+
+en: Transmit the text and append a new-line character (ASCII 10)
+de: Sende den Text und einen Zeilenumbruch LF (ASCII 10)
+es: Transmite el texto y agrega el caracter de nueva linea (ASCII 10)
+fr: Ajoute un retour а la ligne (\\r = $10 en ASCII)
+it: Trasmette il testo ed aggiunge il carattere di nuova linea (ASCII 10)
+nl: Voeg een LF-teken toe (ASCII 10), dan verzenden
+pl: Wysyіaj tekst i doі№czaj znak nowego wiersza (ASCII 10)
+ru: Передавать текст + новая строка (ASCII 10)
+
+en: Transmit the text and append carriage return and new-line characters (ASCII 10+13)
+de: Sende den Text, einen Zeilenumbruch CR und einen Wagenrьcklauf LF (ASCII 10+13)
+es: Transmite el texto y agrega el caracter de retorno y el de nueva linea (ASCII 10+13)
+fr: Ajoute un retour charriot et un retour а la ligne (\\r\\n = $13 + $10 en ASCII)
+it: Trasmette il testo ed aggiunge i caratteri di nuova linea e ritorno a capo (ASCII 10+13)
+nl: De tekst aanvullen met CR/LF-tekens (ASCII 10+13), dan verzenden
+pl: Wysyіaj tekst i doі№czaj znaki powrotu karetki i nowego wiersza (ASCII 10+13)
+ru: Передавать текст + возврат каретки и новая строка (ASCII 10+13)
+
+en: Copies any transmitted text to the reception view
+de: Zeige den gesendeten Text im Empfangsfenster
+es: Copia todo el texto transmitido a la ventana de recepcion
+fr: Affiche le texte transmis dans la fenкtre de rйception
+it: Visualizza nella finestra di ricezione qualsiasi testo trasmesso
+nl: Kopieert alle verzonden tekst naar het ontvangst-venster
+pl: Kopiuje kaїdy wysyіany tekst do okna odbioru
+ru: Отображать переданный текст в окне приёма
+
+en: Standard font or Unifont, the Unifont includes control code characters
+de: Standard Schrift oder Unifont, Unifont enthдlt Symbole fьr dei Steuerzeichen
+es: Fuente estandar o Unifont, la fuente Unifont incluye caracteres de control
+fr: Fonte standard ou Unifont; Unifont unclut les caractиres de contrфles
+it: Font standard o Unifont, quello Unifont include il codice di controllo dei caratteri
+nl: Standaard lettertype of Unifont, het Unifont bevat speciale tekens (control characters)
+pl: Czcionka standardowa lub Unifont, Unifont zawiera obrazy znakуw steruj№cych
+ru: Стандартный фонт или Unifont (включает специальные и непечатные символы)
+
+en: Enables/disables word wrap to the edge of the reception window
+de: Zeilenumbruch des Empfangsfensters ein- und ausschalten
+es: Activa o desactiva el ajuste de linea
+fr: Retour а la ligne automatique dans la fenкtre de rйception
+it: Abilita/disabilita il ritorno a capo sul bordo della finestra di ricezione
+nl: Activeert het afbreken van regels (tussen woorden) wanneer de regels breder worden dan het ontvangstvenster
+pl: Wі№cza lub wyі№cza zawijanie wierszy na krawкdzi okna odbioru
+ru: Включить или выключить перенос по словам в окне приёма
+
+en: Forces this utility topmost (on top of other windows)
+de: Anwendungsfenster immer im Vordergrund
+es: Fuerza la ventana arriba de todas las demas
+fr: Toujours visible (devant les autres fenкtres)
+it: Forza questo programma sopra alle altre finestre
+nl: Houdt het venster bovenaan (topmost)
+pl: Umieszcza ten program na wierzchu (ponad innymi oknami)
+ru: Поверх всех окон
+
+en: Lets the Escape key close this utility
+de: Escape-Taste schliesst die Anwendung
+es: Permite que la tecla <Esc> cierre la apliacion
+fr: La touche <Echap> ferme le programme
+it: Lascia che il tasto <Esc> chiuda questo programma
+nl: De Escape-toets sluit de applicatie
+pl: Pozwala zamkn№ж ten program klawiszem Esc
+ru: Выход из программы по нажатию Esc
+
+en: Enables/disables auto-completion in the transmit edit field
+de: Autovervollstдndigung der Eingabezeile ein- und ausschalten
+es: Activa o desactiva el autocompletado
+fr: Active la saisie semi-automatique du texte
+it: Abilita/disabilita il completamento automatico nella riga di trasmissione
+nl: Schakelt automatisch aanvullen in of uit
+pl: Wі№cza lub wyі№cza autoazupeіnianie w polu edycji transmisji
+ru: Включить или выключить автозавершение в строке ввода текста
+
+en: Closes the port when this utility looses input focus, and re-opens the port when it gets input focus
+de: Die Schnittstelle wird geschlossen, wenn der Fokus nicht auf diesem Fenster liegt, und wieder geцffnet wenn das Fenster wirder im Fokus liegt
+es: Cierra y abre el puerto cuando la aplicacion pierde y recupera el foco respectivamente
+fr: Ferme le port lorsque la fenкtre perd le focus, le rй-ouvre lorsqu'elle redevient active
+it: Chiude la porta quando questo programma perde il focus e la riapre la porta quando lo riacquisisce
+nl: Sluit de poort wanneer dit programma inactief is, en heropent de poort wanneer het programma weer actief wordt
+pl: Zamyka port gdy program traci fokus wprowadzania i otwiera port ponownie gdy dostaje on fokus
+ru: Закрывать порт, когда фокус ввода переносится в другую программу, и снова открывать порт при активации окна Termite
+
+en: Select active plug-ins; configure a plug-in by double-clicking on its name
+de: Aktive Plug-ins auswдhlen, Doppelklick zum Konfigurieren
+es: Selecciona los plugins activos; puede configurar cada uno haciendo doble click en su nombre
+fr: Sйlectionnez les plug-ins actifs; configurez un plug-in en double-cliquant sur son nom
+it: Permette di selezionare i plugin attivi; doppio click sul nome di un plugin per configurarlo
+nl: Activeer plugin's, of configureer een plugin door op de naam een dubbelklik te geven
+pl: Wybierz aktywne wtyczki; skonfiguruj wtyczkк przez podwуne klikniкcie jej nazwy
+ru: Включение плагинов. Для настройки плагина дважды щелкните по его названию
+
+en: Select the language for the user interface; if this list contains only English, the message catalog is not present
+de: Sprache der Benutzerschnittstelle auswдhlen. Fehlt die Sprachdatei (cat), dann ist nur Englisch verfьgbar.
+es: Selecciona el idioma para la interfzas de usuario
+fr: Sйlectionnez la langue pour l'interface utilisateur; si cette liste ne contient que l'anglais, le catalogue de messages n'est pas prйsent
+it: Seleziona la lingua per l'interfaccia utente; se questa lista contiene solo English, il file catalogo di messaggi non и presente
+nl: Kies de taal voor de gebruikersinterface
+pl: Wybierz jкzyk interfejsu uїytkownika; jeїeli ta lista zawiera tylko English, brakuje katalogu komunikatуw
+ru: Выбор языка пользовательского интерфейса. Наличие в этом списке только английского языка указывает на отсутствие файла каталога с сообщениями.
+
+en: Forwarding port may not be the same as the primary port.
+de: Die Schnittstelle  zur Weiterleitung darf nicht die primдre Schnittstelle sein
+es: El puerto de redireccion no debe ser el mismo que el primario.
+fr: La redirection de port ne peut se faire sur le port principal.
+it: La porta per l'inoltro non puт essere uguale alla porta primaria.
+nl: De poort voor het doorsturen kan niet dezelfde zijn als de primaire poort.
+pl: Przekazywany port nie moїe byж ten sam co pierwszy port.
+ru: Главный порт и порт для переназначения данных не могут совпадать.
+
+en: The application needs to be restarted for the changes to take effect.\n\nRestart now?
+de: Die Anwendung muss neu gestartet werden um die Дnderungen zu ьbernehmen.\n\nJetzt neu starten?
+es: La aplicacion necesita reiniciarse para aplicar los cambios.\nReiniciar ahora?
+fr: Le porgramme doit кtre redйmarrй pour que les modifications soient prises en compte.\n\nRedйmarrer maintenant ?
+it: L'applicazione necessita di un riavvio perchй le modifiche abbiano effetto.\n\nRiavviare ora?
+nl: De wijzigingen worden van kracht na een nieuwe opstart van het programma.\n\nNu opnieuw starten?
+pl: Program musi zostaж ponownie uruchomiony by zmiany zaczкіy dziaіaж.\n\nCzy teraz uruchomiж ponownie?
+ru: Для того, чтобы изменения вступили в силу, требуется перезапустить программу. \n\nСделать это сейчас?
+
+en: Text not found
+de: Text nicht gefunden
+es: Texto no encontrado
+fr: Texte non trouvй
+it: Testo non trovato
+nl: Tekst niet gevonden
+pl: Nie znaleziono tekstu
+ru: Текст не найден
+
+en: Waiting for port...
+de: Auf die Schnittstelle warte...
+es: Esperando al puerto...
+fr: En attente du port...
+it: Attendere la porta...
+nl: Wacht op poort...
+pl: Czekanie na port...
+ru: Ожидание порта...
+
+en: Transmit the text
+de: Den Text senden
+es: Transmitir el texto
+fr: Transmet le texte
+it: Trasmette il testo
+nl: De tekst verzenden
+pl: Wyњlij tekst
+ru: Передать текст
+
+en: Change communication settings or application settings, including plug-ins
+de: Verbindungs-, Plug-in- und Anwendungs-Einstellungen дndern
+es: Cambia la configuracion de la aplicacion y de la comunicacion, incluido plugins
+fr: Modifie les paramиtres du port et les rйglages du proogramme
+it: Cambia le impostazioni di comunicazione e del programma compresi i plugin
+nl: Instellen van comminucatie-parameters, programma-opties en plugin's
+pl: Zmieс ustawienia komunikacji lub programu, w tym wtyczki
+ru: Изменение параметров программы и соединения; настройка плагинов.
+
+en: Clear the reception window (erase all contents)
+de: Empfangsfenster leeren (alles lцschen)
+es: Limpiar la ventana de recepcion (borra todo el contenido)
+fr: Efface la fenкtre de rйception
+it: Pulisce la finestra di ricezione (cancella tutto il contenuto)
+nl: Wis het ontvangst-venster
+pl: Wyczyњж okno odbioru (usuс caі№ zawartoњж)
+ru: Очистить окно приёма
+
+en: Show application, version and copyright information
+de: Zeige Anwendungs- und Copyright-Informationen
+es: Muestra informacion sobre la aplicaciуn y la version.
+fr: Affiche la version et les informations de copyright
+it: Mostra la versione e le informazioni di copyright del programma
+nl: Toon informatie over het programma, de versie en het auteursrecht/licentie
+pl: Pokaї informacje o programie, wersji i prawach autorskich
+ru: Отобразить номер версии и информацию об авторских правах
+
+en: Exit the application
+de: Beendet die Anwendung
+es: Salir
+fr: Termine le programme
+it: Esce dal programma
+nl: Sluit het programma
+pl: Wyjdџ z programu
+ru: Выход из программы
+
+en: The current communication parameters. Click in this field to connect or disconnect.
+de: Verbindungseinstellungen. Klick auf dieses Feld um die Einstellungen zu дndern.
+es: Los parametros de comunicacion actuales. Click en este campo para conectar o desconectar.
+fr: Paramиtres actuels. Cliquer pour connecter ou dйconnecter.
+it: Parametri di comunicazione attuali. Cliccare questo tasto per connettere o disconnettere.
+nl: De huidige instellingen voor de communicatie. Klik in dit veld om de connectie te maken of te verbreken.
+pl: Aktualne ustawienia komunikacji. Kliknij to pole їeby poі№czyж lud rozі№czyж.
+ru: Параметры активного соединения. Нажмите для установления или завершения связи.
+
+en: Plain text file (*.txt)|*.txt|Rich Text file (*.rtf)|*.rtf|
+de: normaler Text (*.txt)|*.txt|Rich Text Format (*.rtf)|*.rtf|
+es: Texto plano (*.txt)|*.txt|Texto enriquecido (*.rtf)|*.rtf|
+fr: Fichier texte (*.txt)|*.txt|Rich Text file (*.rtf)|*.rtf|
+it: Testo normale (*.txt)|*.txt|Rich Text Format (*.rtf)|*.rtf|
+nl: Tekstbestanden (*.txt)|*.txt|Rich Text bestanden (*.rtf)|*.rtf|
+pl: Zwykіy tekst(*.txt)|*.txt|Tekst sformatowany(*.rtf)|*.rtf|
+ru: Текстовые файлы (*.txt)|*.txt|Файлы RTF (*.rtf)|*.rtf|
+
+en: Saving the file failed!
+de: Datei konnte nicht gespeichert werden!
+es: Fallo al guardar el archivo!!!
+fr: Erreur d'enregistrement du fichier !
+it: Salvataggio del file non riuscito
+nl: Bestandbewerking is mislukt!
+pl: Zapisywanie pliku nie udaіo siк!
+ru: Не удалось сохранить файл!
+
+en: Termite %d.%d (by CompuPhase)
+de: Termite %d.%d (von CompuPhase)
+es: Termite %d.%d (autor: CompuPhase)
+fr: Termite %d.%d (par CompuPhase)
+it: Termite %d.%d (da CompuPhase)
+nl: Termite %d.%d (door CompuPhase)
+pl: Termite %d.%d (autor: CompuPhase)
+ru: Termite %d.%d (пр-во CompuPhase)
+
+en: OK
+de: OK
+es: OK
+fr: OK
+it: OK
+nl: OK
+pl: OK
+ru: OK
+
+en: &Settings
+de: Ein&st.
+es: &Config.
+fr: &Rйglages
+it: &Impostaz.
+nl: In&stellen
+pl: &Ustawienia
+ru: &Настройки
+
+en: C&lear
+de: &Lцschen
+es: &Limpiar
+fr: &Effacer
+it: &Pulisci
+nl: &Wissen
+pl: &Wyczyњж
+ru: Оч&истить
+
+en: &About
+de: &Info
+es: &Sobre:
+fr: &Infos
+it: I&nfo
+nl: &Info.
+pl: &O progr.
+ru: О &прогр.
+
+en: &Close
+de: b&eenden
+es: &Cerrar
+fr: &Fermer
+it: &Chiudi
+nl: Sluiten
+pl: &Zamknij
+ru: &Закрыть
+
+en: Serial port settings
+de: serielle Schnittstelleneinstellungen
+es: Configuracion del puerto serie
+fr: Paramиtres du port sйrie & rйglages du programme
+it: Impostazioni porta seriale
+nl: Instellingen van de seriлle poort
+pl: Ustawienia portu szeregowego
+ru: Настройки последовательного порта
+
+en: Port configuration
+de: Schnittstelleneinstellung
+es: Configuracion del puerto
+fr: Configuration du port sйrie
+it: Configurazione porta
+nl: Poort-configuratie
+pl: Konfiruracja portu
+ru: Параметры порта
+
+en: &Port
+de: &Schnittstelle
+es: &Puerto
+fr: &Port
+it: &Porta
+nl: &Poort
+pl: &Portu
+ru: &Порт
+
+en: &Baud rate
+de: &Baudrate
+es: &Velocidad (b/s)
+fr: &Vitesse (b/s)
+it: &Baud rate
+nl: &Baud
+pl: &Baud rate
+ru: &Бит в сек.
+
+en: &Data bits
+de: &Datenbits
+es: Bits de datos
+fr: Bits &donnйes
+it: &Bit dati
+nl: &Data-bits
+pl: Bity &danych
+ru: Биты &данных
+
+en: &Stop bits
+de: &Stoppbits
+es: Bits de stop
+fr: Bits &stop
+it: Bit &Stop
+nl: &Stop-bits
+pl: Bity &stopu
+ru: &Стоп. биты
+
+en: P&arity
+de: P&aritдt
+es: &Paridad
+fr: &Paritй
+it: &Paritа
+nl: P&ariteit
+pl: P&arzystoњж
+ru: &Чётность
+
+en: &Flow control
+de: &Steuerung
+es: &Cont de flujo
+fr: Ctrl de &flux
+it: &Controllo flusso
+nl: &Flow control
+pl: S&ter. przepіywem
+ru: &Управление потоком
+
+en: F&orward
+de: Weiterleit.
+es: &Redireccion
+fr: &Redirection
+it: In&oltro
+nl: D&oorsturen
+pl: P&rzekazyw.
+ru: Пер&енапр.
+
+en: Transmitted text
+de: Gesendeter Text
+es: Texto transmitido
+fr: Trame d'йmission
+it: Testo trasmesso
+nl: Verzonden tekst
+pl: Wysіany tekst
+ru: Передав&аемый текст
+
+en: Append &nothing
+de: Nichts anhдngen
+es: No agregar nada
+fr: Suffixe : &Aucun
+it: Aggiungi &nulla
+nl: &Niets toevoegen
+pl: &Nie doі№czaj niczego
+ru: &Как есть
+
+en: Append &CR
+de: &CR anhдngen
+es: Agregar &CR
+fr: Suffixe : &CR
+it: Aggiungi C&R
+nl: &CR toevoegen
+pl: Doі№czaj &CR
+ru: Добавить &CR
+
+en: Append &LF
+de: &LF anhдngen
+es: Agregar &LF
+fr: Suffixe : &LF
+it: Aggiungi &LF
+nl: &LF toevoegen
+pl: Doі№czaj &LF
+ru: Добавить &LF
+
+en: Append C&R-LF
+de: C&R LF anhдngen
+es: Agregar &CR-LF
+fr: Suffixe : C&R-LF
+it: &Aggiungi CR-LF
+nl: C&R-LF toevoegen
+pl: Doі№czaj C&R-LF
+ru: Добавить C&R+LF
+
+en: Local &echo
+de: Lokale Ausgab&e
+es: Eco local
+fr: &Echo local
+it: Eco locale
+nl: &Herhaal getypte tekst
+pl: &Echo lokalne
+ru: Локальное &эхо
+
+en: Received text
+de: Empfangener Text
+es: Texto recibido
+fr: Trame de rйception
+it: Testo ricevuto
+nl: Ontvangen tekst
+pl: Odbierany tekst
+ru: Принятый текст
+
+en: Font
+de: Schrift
+es: Fuente
+fr: Police
+it: Font
+nl: Font
+pl: Czcionka
+ru: Шрифт
+
+en: &Word wrap
+de: Zeilenumbruch
+es: &Ajuste de linea
+fr: &Retour а la ligne auto
+it: &Testo a capo
+nl: &Zinnen afbreken
+pl: &Zawijanie wierszy
+ru: Перенос по с&ловам
+
+en: Stay on &top
+de: Immer im &Vordergrund
+es: Permanecer arriba
+fr: &Toujours visible
+it: Mantieni &sopra
+nl: Bo&venaan blijven
+pl: Zawsze &na wierzchu
+ru: Повер&х всех окон
+
+en: &Quit on Escape
+de: Beenden bei <Esc>
+es: Salir con <Esc>
+fr: &Fermer par <Echap>
+it: Chiudi con <Esc>
+nl: Afsluiten met Escape
+pl: Zamknij klaw. Esc
+ru: Выход по &Esc
+
+en: A&utocomplete edit line
+de: A&utovervollstдndigung
+es: Autocompletar
+fr: &Saisie semi-auto
+it: Completamento &autom.
+nl: A&utomatisch aanvullen
+pl: A&utouzupeіnianie
+ru: А&втодополнение ввода
+
+en: Close port when inacti&ve
+de: SchlieЯen, wenn inaktiv
+es: Cerrar puerto en inactiv.
+fr: Ferme le port si inactif
+it: Chiudi &porta se inattiva
+nl: Sluit poort indien inactief
+pl: Zamknij port gdy nieakt.
+ru: Откл&ючить при неакт.
+
+en: Plug-ins
+de: Plug-ins
+es: Plugins
+fr: Plug-ins
+it: Plugin
+nl: Plugin's
+pl: Wtyczki
+ru: Пла&гины
+
+en: User interface language
+de: Sprache
+es: Idioma de la interfaz de usuario
+fr: Langue de l'interface
+it: Lingua interfaccia utente
+nl: Taal gebruikersinterface
+pl: Jкzyk interfejsu uїytkownika
+ru: &Язык интерфейса
+
+en: Cancel
+de: Abbrechen
+es: Cancelar
+fr: Annuler
+it: Annulla
+nl: Annuleer
+pl: Anuluj
+ru: Отмена
+
+en: About Termite %d.%d
+de: Informationen ьber Termite %d.%d
+es: Informacion sobre Termite %d.%d
+fr: A propos de Termite %d.%d
+it: Info su Termite %d.%d
+nl: Informatie over Termite %d.%d
+pl: Informacja o Termite %d.%d
+ru: О Termite %d.%d
+
+en: Termite %d.%d\n\nTermite is a simple RS232 communication tool with a \"messenger\" or \"chat program\" user-interface.
+de: Termite %d.%d\n\nTermite ist eine einfache Anwendung fьr die Kommunikation ьber die RS232 Schnittstelle.
+es: Termite %d.%d\nTermite es una herramienta simple de comunicacion RS232.\n \nTraduccion al espaсol por Luchoz
+fr: Termite %d.%d\nest un outil de communication RS232 йquipй d'une interface utilisateur de type \"messenger\" ou \"chat\"
+it: Termite %d.%d\n\nTermite и un semplice strumento di comunicazione RS232 con un'interfaccia simile ai programmi di messaggistica o chat.
+nl: Termite %d.%d\n\nTermite is een eenvoudig programma om via een RS232 poort to communiceren.
+pl: Termite %d.%d\n\nTermite jest prostym narzкdziem do kommunikacji RS232 z interfejsem \"komunikatora\" lub \"programu do czatu\".
+ru: Termite %d.%d\n\nTermite – простое приложение для связи по RS232 с  классическим \"чатоподобным\" интерфейсом.
+
+en: Termite is \xa9 copyright 2006-2015, CompuPhase.\nThis version is freeware.
+de: Termite \xa9 copyright 2006-2015, CompuPhase.\nDiese Version ist Freeware.
+es: Termite. Copyright 2006-2015, CompuPhase.\nEsta version es Freeware
+fr: Termite de Compuphase \xa9 copyright 2006-2015.\nCette version est libre (freeware).
+it: Termite и \xa9 copyright 2006-2015, CompuPhase.\nQuesta versione и freeware.
+nl: Auteursrecht \xa9 van Termite behoort aan CompuPhase.\nDeze versie is vrij verspreidbaar.
+pl: Termite ma \xa9 prawa autorskie zastrzeїone w 2006-2015, dla CompuPhase.\n Ta wersja jest wolnym oprogramowaniem (freeware).
+ru: Termite \xa9 Авторские права 2006-2015, CompuPhase.\nЭта версия бесплатна (freeware).
+
+en: &Copy
+de: &Kopieren
+es: &Copiar
+fr: &Copier
+it: &Copia
+nl: &Kopieer
+pl: &Kopiuj
+ru: &Копировать
+
+en: &Save...
+de: &Speichern...
+es: &Guardar
+fr: &Enregistrer...
+it: &Salva...
+nl: &Opslaan...
+pl: &Zapisz...
+ru: &Сохранить...
+
+en: &Select all
+de: Alles &Auswдhlen
+es: &Seleccionar todo
+fr: &Sйlectionner tout
+it: &Seleziona tutto
+nl: Alles &selecteren
+pl: Zaznacz &Wszystko
+ru: В&ыделить всё
+
+en: &Find...
+de: &Suchen...
+es: &Buscar...
+fr: &Rechercher...
+it: &Cerca
+nl: &Zoeken...
+pl: &Szukaj...
+ru: &Найти...
+
+en: &Print...
+de: &Drucken...
+es: &Imprimir
+fr: &Imprimer...
+it: &Stampa...
+nl: &Afdrukken
+pl: &Drukuj...
+ru: &Печать...
+
+en: Options
+de: Optionen
+es: Opciones
+fr: Options
+nl: Opties
+it: Opzioni
+pl: Opcjeen
+ru: Настройки
+
+en: Polling
+de: Abrage
+es: Polling
+fr: Polling
+it: Polling
+nl: Monitor
+pl: Polling
+ru: Polling
+
+en: The interval (in milliseconds) at which the program scans for new input
+de: Das Intervall (in Millisekunden) in dem das Programm nach neuen Daten sucht
+es: The interval (in milliseconds) at which the program scans for new input
+fr: The interval (in milliseconds) at which the program scans for new input
+it: The interval (in milliseconds) at which the program scans for new input
+nl: De interval (in milliseconden) waarmee het programma controleert of er nieuwe data is ontvangen
+pl: The interval (in milliseconds) at which the program scans for new input
+ru: The interval (in milliseconds) at which the program scans for new input
+
+en: Keep history
+de: Historie speichern
+es: Keep history
+fr: Keep history
+it: Keep history
+nl: Historie bewaren
+pl: Keep history
+ru: Keep history
+
+en: If enabled, keeps the most recent commands typed in the transmit edit field (required for auto-completion)
+de: Wenn aktiv, dann werden die letzten Eingaben des Sendefelds gespeichert (erforderlich fьr Autovervollstдndigung)
+es: If enabled, keeps the most recent commands typed in the transmit edit field (required for auto-completion)
+fr: If enabled, keeps the most recent commands typed in the transmit edit field (required for auto-completion)
+it: If enabled, keeps the most recent commands typed in the transmit edit field (required for auto-completion)
+nl: Indien actief, zullen de meest recent ingetikte boodschappen worden bewaard (noodzakelijk voor automatisch aanvullen)
+pl: If enabled, keeps the most recent commands typed in the transmit edit field (required for auto-completion)
+ru: If enabled, keeps the most recent commands typed in the transmit edit field (required for auto-completion)
+
+en: ms
+de: ms
+es: ms
+fr: ms
+it: ms
+nl: ms
+pl: ms
+ru: ms
+
