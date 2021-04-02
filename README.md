@@ -1,6 +1,8 @@
 # CHIRON-EVO
 repository delle modifiche che ho attuato alla mia anycubic chiron
 
+HARDWARE
+
 hotend trianglelab e3d v6
 https://it.aliexpress.com/item/32844313509.html?spm=a2g0s.9042311.0.0.27424c4dBxZaBv
 una volta montato andranno alzati gli endstop ottici o stampate alette piu lunghe altrimenti non arriva a fare il trigger del fine corsa
@@ -22,3 +24,8 @@ SEGUE GUIDA DEDICACATA
 
 accellerometro per ottimizzazione delle vibrazioni
 https://it.aliexpress.com/item/32922294688.html?spm=a2g0s.9042311.0.0.27424c4dk6avcs
+
+SOFTWARE
+
+win32imager per fare un clone di backup della sd
+https://sourceforge.net/projects/win32diskimager/
