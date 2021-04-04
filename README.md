@@ -1,7 +1,7 @@
 # CHIRON-EVO
 repository delle modifiche che ho attuato alla mia anycubic chiron
 
-HARDWARE
+MOD HARDWARE PER LA STAMPANTE
 
 hotend trianglelab e3d v6
 https://it.aliexpress.com/item/32844313509.html?spm=a2g0s.9042311.0.0.27424c4dBxZaBv
@@ -24,6 +24,10 @@ SEGUE GUIDA DEDICACATA
 
 accellerometro per ottimizzazione delle vibrazioni
 https://it.aliexpress.com/item/32922294688.html?spm=a2g0s.9042311.0.0.27424c4dk6avcs
+
+ELEMENTI DA STAMPARE LEGATI A KLIPPER
+
+ho creato una cartella dedicata sotto klipper. al momento contiene un case per il rasp e un supporto un tablet da 7 pollici da usare come interfaccia localae
 
 SOFTWARE
 
