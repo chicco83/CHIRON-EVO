@@ -1,6 +1,12 @@
 # CHIRON-EVO
 repository delle modifiche che ho attuato alla mia anycubic chiron
 
+CONDFIGURAZIONE PRINTER.CFG
+
+tutti i dettagli delle funzioni implementate sono descritte nel file di testo assieme al printer.cfg
+
+
+
 MOD HARDWARE PER LA STAMPANTE
 
 hotend trianglelab e3d v6
@@ -24,6 +30,9 @@ SEGUE GUIDA DEDICACATA
 
 accellerometro per ottimizzazione delle vibrazioni
 https://it.aliexpress.com/item/32922294688.html?spm=a2g0s.9042311.0.0.27424c4dk6avcs
+
+aggiunta rele per spegnimento stampante da klipper.
+va installato un rele sul filo rosso saldato al connettore della spina e spostato il jumper che imposta l'alimentazione della trigorilla nella posizione usb in modo che la scheda sia alimentata dal raspberry. vedi foto nella cartella MOD HARDWARE / INSTALLAZIONE RELE
 
 ELEMENTI DA STAMPARE LEGATI A KLIPPER
 
