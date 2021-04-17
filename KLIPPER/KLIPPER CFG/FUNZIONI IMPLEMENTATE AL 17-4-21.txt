@@ -1,5 +1,11 @@
 FUNZIONI IMPLEMENTATE IN KLIPPER
 
+PRINTER.CFG
+
+[output_pin power]
+accensione e spegnimento della stampante tramite semplice rele che interrompe il positivo che esce dal connettore della spina. vedi foto nella sezione MOD HARDWARE / INSTALLAZIONE RELE
+
+
 [idle_timeout]
 se dopo 5 minuti dal riscaldamento la stampante non ha ricevuto input, ritrae il filamento spegne hotend e piatto, suona e da un output su console che avvisa dell'avvenuto idle_timeout
 
@@ -9,6 +15,13 @@ nelle temperature viene mostrata anche quella della cpu del raspberry
 gli stepper sono gia predisposti per lavorare con i driver 4988 o 2209
 da calibrare in base alla propria meccanica le rotation_distance
 https://github.com/KevinOConnor/klipper/blob/master/docs/Rotation_Distance.md
+
+#[temperature_sensor TMC_2209]
+aggiunto un semplice termistore da hotend collegato al pin t2 per monitorare la temperatura dei tmc al momento il codice è disattivato e gira quello nella sezione 
+
+[temperature_fan stepper_driver_fan]
+questo codice permette di settare la temperatura obiettivo da mantenere per i driver e la ventola varia in automatico la propria velocita.
+per ottenere maggiore silezionsita ho collegato assieme alla ventola della scheda madre anche quella dell'alimentatore.
 
 
 [endstop_phase]
@@ -46,3 +59,17 @@ supportato il sensore di fine filamento
 in caso di fine filamento la stampante va in pausa ed emette un avviso sonoro.
 al rilevamento del nuovo filo lo carica automaticamente:lentamente i primi 2 cm, velocemente i successivi 49 e di nuovo lentamente gli ultimi 6 cm
 poi riprende la stampa
+
+MACRO.CFG
+
+[gcode_macro M600]
+macro m600 per cambio filo
+
+[gcode_macro POWER_OFF_PRINTER]
+gcode:
+  SET_PIN PIN=power value=0
+
+[gcode_macro POWER_ON_PRINTER]
+gcode:
+  SET_PIN PIN=power value=1
+accensione e spegnimento della stampante tramite rele
