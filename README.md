@@ -4,6 +4,7 @@ repository delle modifiche che ho attuato alla mia anycubic chiron
 
 LATEST CHANGES
 8-5-21 aggiunto SCREW ADJUST
+
 8-5-21 aggiunto SuperSlicer_2.3.6a 4-5-21 NIGHTLY
 
 
