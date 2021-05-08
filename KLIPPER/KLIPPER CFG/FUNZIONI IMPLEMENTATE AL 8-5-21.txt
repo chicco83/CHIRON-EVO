@@ -60,6 +60,10 @@ in caso di fine filamento la stampante va in pausa ed emette un avviso sonoro.
 al rilevamento del nuovo filo lo carica automaticamente:lentamente i primi 2 cm, velocemente i successivi 49 e di nuovo lentamente gli ultimi 6 cm
 poi riprende la stampa
 
+[SCREW TILT CALCULATE]
+indica come regolare le viti del piatto per una perfetta messa in piano fisica
+
+
 MACRO.CFG
 
 [gcode_macro M600]
