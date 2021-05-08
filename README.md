@@ -8,7 +8,7 @@ LATEST CHANGES
 
 
 
-CONDFIGURAZIONE PRINTER.CFG
+CONFIGURAZIONE PRINTER.CFG
 
 tutti i dettagli delle funzioni implementate sono descritte nel file di testo assieme al printer.cfg
 
