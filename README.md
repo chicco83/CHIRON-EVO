@@ -1,11 +1,16 @@
 # CHIRON-EVO
 repository delle modifiche che ho attuato alla mia anycubic chiron
 
-CONDFIGURAZIONE PRINTER.CFG
+
+LATEST CHANGES
+8-5-21 aggiunto SCREW ADJUST
+8-5-21 aggiunto SuperSlicer_2.3.6a 4-5-21 NIGHTLY
+
+
+
+CONFIGURAZIONE PRINTER.CFG
 
 tutti i dettagli delle funzioni implementate sono descritte nel file di testo assieme al printer.cfg
-
-
 
 MOD HARDWARE PER LA STAMPANTE
 
